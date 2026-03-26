@@ -11,7 +11,7 @@
 
 ## Evidence Synthesis Tools
 
-A curated directory of **277 strictly open-source tools (up to 2026)** covering the complete evidence synthesis workflow.
+A curated directory of **200+ strictly open-source tools (up to 2026)** covering the complete evidence synthesis workflow.
 
 ### Scope
 
@@ -42,14 +42,10 @@ Supports **transparency, reproducibility, reuse, and global access** for researc
 
 Submit tools via GitHub Issues, Discussions, Mail or Pull Requests.
 
-### Citation
-
-Sahu, V. (2026). *Evidence Synthesis Tools* (v2.1). Zenodo.
-[https://doi.org/10.5281/zenodo.18681868](https://doi.org/10.5281/zenodo.18681868)
 
 ### License
 
-Apache License 2.0
+Apache License 2.0 / CC BY 4.0.
 
 ---
 
